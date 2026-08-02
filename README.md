@@ -29,7 +29,8 @@ An IoT based Smart Irrigation System using ESP8266, Firebase, DHT11 and Soil Moi
 
 ## Circuit
 
-(Add image here)
+<img width="845" height="714" alt="image" src="https://github.com/user-attachments/assets/776eb943-c9e5-4b2f-9309-3f29a80dc5c1" />
+
 
 ## Working
 
